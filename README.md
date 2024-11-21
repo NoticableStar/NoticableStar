@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Priya Chaurasia.
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning machine learning using python.
-- 📫 How to reach me: www.linkedin.com/in/priyachaurasia
+- 📫 How to reach me:
+- Linkedin: www.linkedin.com/in/priyachaurasia
+- email: priyachaurasia.work@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have participated in 2 hackathons before completion of first 2 months of college.
 
